@@ -1,17 +1,14 @@
-# retailsync
+# RetailSync
 
-A new Flutter project.
+RetailSync is a CRM tool that allows customers to gain loyalty points upon purchasing items from a store.
+<br><br>
 
-## Getting Started
+It contains a user dashboard for transaction history and an admin dashboard to manage customers.
 
-This project is a starting point for a Flutter application.
+# Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/ac024e77-8faa-43b7-83db-9b9b7bf67287" />
+<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/294fa2d8-aba7-4997-8969-707be0821b0c" />
+<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/ce89e8ac-d018-4dc0-9a3e-f4995d214562" />
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
